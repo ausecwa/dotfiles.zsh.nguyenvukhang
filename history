@@ -555,3 +555,66 @@
 : 1633534026:0;vim brew/edits
 : 1633534032:0;gs
 : 1633534033:0;gaa
+: 1633534038:0;gcm 'updated dotfiles path'
+: 1633534039:0;git push
+: 1633534513:0;sudo pacman -S mkv
+: 1633534541:0;sudo pacman -S mpv
+: 1633534547:0;sudo pacman -Syu
+: 1633534604:0;mpv
+: 1633534670:0;exit
+: 1633534672:0;exit
+: 1633534673:0;exit
+: 1633534677:0;exit
+: 1633534678:0;exit
+: 1633534694:0;pip install git+git://github.com/thann/play-with-mpv --user
+: 1633534707:0;sudo pip install git+git://github.com/thann/play-with-mpv --user
+: 1633534716:0;pip3 install git+git://github.com/thann/play-with-mpv --user
+: 1633534729:0;which pip
+: 1633534798:0;ls
+: 1633534801:0;cd Pictures
+: 1633534801:0;ls
+: 1633534801:0;out
+: 1633534802:0;ls
+: 1633534804:0;cd Pictures
+: 1633534804:0;ls
+: 1633534805:0;cd specials
+: 1633534806:0;ls
+: 1633534809:0;mpv hcanoe-
+: 1633534811:0;mpv hcanoe-2018-boomerang.mp4
+: 1633534825:0;sudo pacman -Rnsu mpv
+: 1633534855:0;ls
+: 1633534856:0;ls
+: 1633534875:0;ls /var/cache/pacman/pkg
+: 1633534915:0;du -sh /var/cache/pacman/pkg
+: 1633534919:0;n
+: 1633534928:0;ls
+: 1633534929:0;2n
+: 1633534929:0;ls
+: 1633534930:0;cd posts
+: 1633534930:0;ls
+: 1633534934:0;2a
+: 1633534935:0;ls
+: 1633534936:0;cd manuals
+: 1633534937:0;ls
+: 1633534939:0;vim maintenance.md
+: 1633535034:0;pacman -Sc
+: 1633535036:0;sudo pacman -Sc
+: 1633535056:0;gs
+: 1633535057:0;gaa
+: 1633535075:0;gcm 'added maintenance notes'
+: 1633535076:0;git push
+: 1633535078:0;ags
+: 1633535080:0;2v
+: 1633535080:0;gs
+: 1633535081:0;gd
+: 1633535082:0;gaa
+: 1633535094:0;gcm 'made gf back to normal, gF to open file in vertical split'
+: 1633535094:0;git push
+: 1633535096:0;ags
+: 1633535097:0;2n
+: 1633535097:0;gs
+: 1633535098:0;gaa
+: 1633535099:0;gcm 'up'
+: 1633535100:0;git push
+: 1633535104:0;2z
+: 1633535105:0;gaa
